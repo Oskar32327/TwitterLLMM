@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Lista-Principal>
+	<lista-sugerencias>
+		<sugerencia>
+			<img>https://s1.1zoom.me/big3/471/Painting_Art_Back_view_Photographer_575380_3840x2400.jpg</img>
+			<arroba>@harnina</arroba>
+			<button>Seguir</button>
+		</sugerencia>
+		<sugerencia>
+			<img>https://s1.1zoom.me/big3/471/Painting_Art_Back_view_Photographer_575380_3840x2400.jpg</img>
+			<arroba>@Oscar</arroba>
+			<button>Seguir</button>
+		</sugerencia>
+	</lista-sugerencias>
+	<lista-tendencias>
+		<tendencia>
+			<Nombre>Lorem Ipsum</Nombre>
+			<img>https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Imagen3-245003649.jpg?w=800</img>
+		</tendencia>
+	</lista-tendencias>
+	<lista-twits>
+		<twit>
+			<Nombre>Oscar </Nombre>
+			<arroba>@Oscar123</arroba>
+			<Parrafo>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</Parrafo>
+			<img>https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Imagen3-245003649.jpg?w=800</img>
+		</twit>
+		<twit>
+			<Nombre>Miguel </Nombre>
+			<arroba>@miguelin243</arroba>
+			<Parrafo>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</Parrafo>
+			<img>https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Imagen3-245003649.jpg?w=800</img>
+		</twit>
+		<twit>
+			<Nombre>Juan </Nombre>
+			<arroba>@juanito23</arroba>
+			<Parrafo>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</Parrafo>
+			<img>https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Imagen3-245003649.jpg?w=800</img>
+		</twit>
+	</lista-twits>
+</Lista-Principal>
